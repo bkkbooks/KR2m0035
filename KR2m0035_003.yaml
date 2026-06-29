@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0035/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 纂輯欽定大清通禮大臣官員職名總裁臣來保臣陳世倌經筵講官吏部尚書臣王安國臣嵩夀提調禮部儀制司員外郎加一級紀録十次臣寧昶臣額爾登額纂修臣李玉鳴禮部儀制司郎中升授山東道監察御史紀録七次臣朱丕烈禮部儀制司郎中前翰林院庶吉士紀録四次臣鄭忬禮部精膳司主事加一級紀録三次臣沈清任收掌禮部儀制司筆帖式加二級紀録三次臣奇騰額禮部司務㕔筆帖式加二級紀録三次臣西輅禮部祠祭司筆帖式加四級紀録二次臣長全謄録禮部儒士周和禮部儒士魯遇恩禮部儒士李殿英禮部儒士徐聚井禮部儒士宋騰飛禮部儒士聶埈禮部儒士王朝選禮部儒士鍾道禮部儒士王渭禮部供事李國模禮部供事樊學湘禮部供事錢梓禮部供事劉紹升禮部供事章廷瑞禮部供事朱鼎
+  hash: sha256:5ec1adc1224276f50c84790ea5a91afa7016d734febde9d79d5f5e37d2508f9e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0035_WYG_003-1a, image: WYG0655/WYG0655-0008c.png}
+metadata:
+  title: 欽定大清通禮
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:01.727521'
+  juan_title: 職名
+  source:
+    repository: kanripo
+    path: KR2m0035/KR2m0035_003.txt
+hash: sha256:9dd5fca00c04a3adf78a747f45eec0169e3cdf7ea79746ab890ccf734a95606d
